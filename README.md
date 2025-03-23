@@ -1,5 +1,5 @@
 # 💫 About Me:
-Scrap trading system
+I'm Ravi Jagani, A passionate flutter developer from India
 
 
 ## 🌐 Socials:
